@@ -19,6 +19,7 @@ nav:
     - 自定义主题: learning_note/self_theme.md
     - 配置文件: learning_note/config_file.md
     - 部署文档: learning_note/deploy_docs.md
+    - 其他技巧: learning_note/other_note.md
 plugins:
   - search
 markdown_extensions:
