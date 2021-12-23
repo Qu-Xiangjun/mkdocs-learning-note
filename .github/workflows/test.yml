@@ -1,0 +1,26 @@
+name: Test # workflow名称
+on: push # 触发此workflow启动的动作
+jobs:
+  my_first_job: # 第一个job
+    name: My first job # job名称
+    runs-on: ubuntu-latest # 虚拟环境镜像选择
+    steps: # 执行步骤
+    - name: checkout # action1
+      uses: actions/checkout@master
+    - name: Set python env
+      uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' # Version range or exact version of a Python version to use
+    - name: Run a single-line script # action2 执行命令行
+      run: echo "Hello World!"
+  my_second_job:  # 第二个job
+    name: My second job
+    runs-on: macos-latest
+    steps:
+    - name: Run a multi-line script
+      env:
+        MY_VAR: Hello World!
+        MY_NAME: P3TERX
+      run: |
+        echo $MY_VAR
+        echo My name is $MY_NAME
