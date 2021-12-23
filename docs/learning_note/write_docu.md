@@ -106,11 +106,11 @@ nav:
 
 通过上述配置，我们拥有三个顶级项目：“主页”、“用户指南”和“关于”。“主页”是指向站点主页的链接。在“用户指南”部分下列出了两页：“编写文档”和“设计文档样式”。在“关于”部分下还列出了两个页面：“许可”和“发行说明”。则目前我们的项目文件结果为：
 
-![img](https://d37hhp00kf.feishu.cn/space/api/box/stream/download/asynccode/?code=NDE3YWMzOThjNDNlMjA4MWFkNzllYTBiYjAyOWI2ZWZfd2s0VjJVMXNxYTJtTkVMdkpQcDZXZjJsTVhGMmNwd01fVG9rZW46Ym94Y24xdEc5TVNRTGhIellkS0tWQ3NuTVhlXzE2NDAxODc0NzU6MTY0MDE5MTA3NV9WNA)
+![img](../img/2-1.png)
 
 此外，我们可以建立`docs`目录下子文件夹进行规范md文件
 
-![img](https://d37hhp00kf.feishu.cn/space/api/box/stream/download/asynccode/?code=OTE1MzI4NWRhMzhiZDg4OTc0NGI3NzYzNWM3YmJmNzhfMzc1Y08yOUIydHRDbkkyWVNVdkRMMDliNDB0SFNzaWhfVG9rZW46Ym94Y25meDE1NVhKVnFtN1VOVERmd2VhQlZVXzE2NDAxODc0NzU6MTY0MDE5MTA3NV9WNA)
+![img](../img/2-2.png)
 
 yml文件的格式相应改为相对路径：
 

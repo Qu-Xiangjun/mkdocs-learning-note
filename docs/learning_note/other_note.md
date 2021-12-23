@@ -26,4 +26,4 @@ jobs:
 
 如此，在每次master分支push新东西都将引起一次CI持续集成的`action`，同时其中15行会再引起一次 gh-deploy `action`
 
-![img](https://d37hhp00kf.feishu.cn/space/api/box/stream/download/asynccode/?code=Njg5YzM4NzE5OGUxN2Y3YThkMjgzYzU3YzY1MjNlOWJfTVVWRjQ2UUI2TEFiMVpXeXl0clN4S1A2YzBORjdnV1lfVG9rZW46Ym94Y25aSEhKTEZSck1Heks3cDBxMFBhemdkXzE2NDAxODg0MzQ6MTY0MDE5MjAzNF9WNA)
+![img](../img/7-1.png)

@@ -69,7 +69,7 @@ $ cd my-project
 
 我们看一下已经创建的初始化项目.
 
-![img](https://d37hhp00kf.feishu.cn/space/api/box/stream/download/asynccode/?code=N2M4NGUzYzRjZDExMTU1YjE1YTJhOTY5MGY4MzFkMTlfZWRUZVdac2tKOVF3VFpRYllPVFVQSjNzV0RMOWc5SFNfVG9rZW46Ym94Y25lWnRSWFh3Y1k3bDhSS2F3THIzU1RoXzE2NDAxODY4NTI6MTY0MDE5MDQ1Ml9WNA)
+![img](../img/1-1.png)
 
 有一个配置文件 `mkdocs.yml`, 和一个包含文档源码的 `docs` 文件夹. 在 `docs` 文件夹里包含了一个名为 `index.md` 的文档.
 
@@ -82,7 +82,7 @@ Running at: http://127.0.0.1:8000/
 
 在浏览器中打开 http://127.0.0.1:8000/ , 你将看到以下页面:
 
-![img](https://d37hhp00kf.feishu.cn/space/api/box/stream/download/asynccode/?code=MDEyYzg1OTk0ODI0MTY2ZDVjZTRmZWU2ZjY4NGE5NDVfRGI5V3N2T1FyZGhsNDRZNWRYUmdpRUlzVTloaWtxOHRfVG9rZW46Ym94Y25jeXNiMzZVbnRiMnBWNzVsRkFZemtmXzE2NDAxODY4NTI6MTY0MDE5MDQ1Ml9WNA)
+![img](../img/1-2.png)
 
 内建服务器支持在配置文件,文档目录或主题发生改变时自动载入并重新生成文档.
 
@@ -90,11 +90,11 @@ Running at: http://127.0.0.1:8000/
 
 现在可以开始编辑配置文件 `mkdocs.yml` 了. 把 `site_name` 改成其他内容并保存文档.
 
-![img](https://d37hhp00kf.feishu.cn/space/api/box/stream/download/asynccode/?code=MWE4ZTZhYThiMWY5NGI2NjRjNTc3Mzc2NjdkZWE2ZjdfcWdvcWhLV2tTTEFkaGtOQWJMZWVHeXVGaUtFV0JweUJfVG9rZW46Ym94Y24ycFNPQXB4YVNDNldXa1R2VFlVN0FXXzE2NDAxODY4NTI6MTY0MDE5MDQ1Ml9WNA)
+![img](../img/1-3.png)
 
 刷新浏览器你将看到网页标题已发生改变.
 
-![img](https://d37hhp00kf.feishu.cn/space/api/box/stream/download/asynccode/?code=Zjc5Mzg2ODhjYjc5ZDRhZDNjOTViMWYyZDU3MDgwZWZfS0Z2WUZOeWdQOU1qb0hoQnpRVTAxRW50NXFIUnB1UjhfVG9rZW46Ym94Y25mbFBRUHNWeTZ0WDg2MUVBZ2d0NGtkXzE2NDAxODY4NTI6MTY0MDE5MDQ1Ml9WNA)
+![img](../img/1-4.png)
 
 
 
@@ -137,7 +137,7 @@ theme: readthedocs
 
 刷新浏览器即可看到 ReadTheDocs 主题已被应用.
 
-![img](https://d37hhp00kf.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDBkODU3Zjk2OTY1MDQ0YjViYzFiNGVlZmU4OTYxMTFfTFd1b2dacUxQdTJhMTl4cUJTY21aMEgydjlBUWtLVmxfVG9rZW46Ym94Y25SZ2lhSFdxWjNVZnNXalczdDNGWENmXzE2NDAxODY4NTI6MTY0MDE5MDQ1Ml9WNA)
+![img](../img/1-5.png)
 
 
 
@@ -145,11 +145,11 @@ theme: readthedocs
 
 默认情况下，MkDocs使用MkDocs favicon图标。要使用不同的图标，请在docs目录中创建一个img子目录，并复制自定义favicon.ico文件到其中。MkDocs将自动检测该文件并将其用作favicon图标。
 
-![img](https://d37hhp00kf.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDQwNmY4NGIyYWQ0YTcwZDFkYWUwMzQ2NjFlNzAxNzlfZDdZU2NlMWwyaU4wMVFDUlQzV2hIRFdMOWpaYzltTUJfVG9rZW46Ym94Y25EYXFhdjdJUmpXbjBjcG1PcThtYnVmXzE2NDAxODY4NTI6MTY0MDE5MDQ1Ml9WNA)
+![img](../img/1-6.png)
 
 自动刷新页面显示为
 
-![img](https://d37hhp00kf.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2RkNDAzODhkMzgwNWI3OTE0NzliMzliYTJiM2E1NWRfMEtUZ0NSWXJCdG5QVGNkTFFBSGR1N0Y0OFVWekF0bXBfVG9rZW46Ym94Y25hUEo5MlB4Vk5DRjd6aFUwTG12enNmXzE2NDAxODY4NTI6MTY0MDE5MDQ1Ml9WNA)
+![img](../img/1-7.png)
 
 
 
