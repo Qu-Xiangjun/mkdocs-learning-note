@@ -21,6 +21,6 @@ jobs:
       env:
         MY_VAR: Hello World!
         MY_NAME: P3TERX
-      run: |
+      run:
         echo $MY_VAR
         echo My name is $MY_NAME
