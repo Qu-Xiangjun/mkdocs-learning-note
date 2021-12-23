@@ -7,8 +7,7 @@ jobs:
     steps: # 执行步骤
     - name: checkout # action1
       uses: actions/checkout@master
-    - name: Set python env
-      uses: actions/setup-python@v2
+    - uses: actions/setup-python@v2
         with:
           python-version: '3.x' # Version range or exact version of a Python version to use
     - name: Run a single-line script # action2 执行命令行
