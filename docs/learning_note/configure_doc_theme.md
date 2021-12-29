@@ -22,7 +22,7 @@ theme: readthedocs
 
 MkDocs的默认主题，使用修改过的Bootstrap构建而成，支持MkDocs的大部分功能。
 
-![img](https://d37hhp00kf.feishu.cn/space/api/box/stream/download/asynccode/?code=OWQ2MjY0YTQ0ODNlZGI3ZWZmYWQxZjRkMjVjOTNjNWJfZWlsNjNKeVRtd3U1alZqaGVEdVNkbjZkalIzVm9pekhfVG9rZW46Ym94Y256ekVFY3J2M3JuTWdZcVlkMWdlNHFmXzE2NDAxODc1Njk6MTY0MDE5MTE2OV9WNA)
+![img](F:\Study\Term7\mkdocs-learning-note\docs\img\3-1.png)
 
 除了默认的[主题配置选项]之外，`mkdocs`主题还支持以下选项：
 
@@ -95,7 +95,7 @@ theme:
 
 [Read the Docs](https://readthedocs.org/)服务使用的默认主题的克隆，它提供与其父主题相同的受限制功能集。 与其父主题一样，仅支持两个级别的导航。
 
-![img](https://d37hhp00kf.feishu.cn/space/api/box/stream/download/asynccode/?code=MTI5NGE2YWIyNGQ1N2U5YTE2M2RkYWUxYTg2ZmU0ZDBfcUlLVWkyZllpdVUzaTF4UnNSTWFDdm85b2I3U1E4bVVfVG9rZW46Ym94Y25qenNCdnJnaEp6aWJYR3RlcHh3YUllXzE2NDAxODc1Njk6MTY0MDE5MTE2OV9WNA)
+![img](F:\Study\Term7\mkdocs-learning-note\docs\img\3-2.png)
 
 除了默认的[主题配置选项]之外，`readthedocs`主题还支持以下选项：
 
